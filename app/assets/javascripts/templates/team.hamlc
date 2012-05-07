@@ -1,0 +1,3 @@
+%td
+  %img{src: "/assets/#{@country}.png"}
+  %span.team= @name 

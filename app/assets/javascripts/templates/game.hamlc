@@ -1,0 +1,7 @@
+%td.team.team_a
+  %img{src: "/assets/#{@home_team.country}.png"}
+  %span= @home_team.name
+%td.vs vs
+%td.team.team_b
+  %span= @away_team.name
+  %img{src: "/assets/#{@away_team.country}.png"}

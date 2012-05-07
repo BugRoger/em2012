@@ -1,0 +1,6 @@
+%table.table.table-striped.table-bordered
+  %thead
+    %tr
+      %th
+        Teams
+  %tbody

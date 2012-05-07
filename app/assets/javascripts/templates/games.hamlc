@@ -1,0 +1,7 @@
+%table.table.table-striped.table-bordered
+  %thead
+    %tr
+      %th.team_a Team A
+      %th
+      %th.team_b Team B
+  %tbody
